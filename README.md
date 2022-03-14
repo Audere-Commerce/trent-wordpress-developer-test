@@ -1,5 +1,5 @@
 # Wordpress Test
 
-Admin Account
-Username: trent
+<b>Admin Account</b><br>
+Username: trent<br>
 Password: Yq#l^Zu$H@bnTGBCH2
